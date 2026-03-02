@@ -1,23 +1,7 @@
-# Environment
 .env
-.venv/
-env/
-venv/
-
-# Audio cache (generated locally per user)
 audio_cache/
-
-# Python
+*.mp3
+.venv/
 __pycache__/
 *.pyc
-*.pyo
-*.egg-info/
-dist/
-build/
-
-# macOS
 .DS_Store
-
-# IDE
-.vscode/
-.idea/
